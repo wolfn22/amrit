@@ -1,5 +1,5 @@
 # Hi there 👋 I am Amrit! 
-![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif)
 
 
 

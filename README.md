@@ -1,4 +1,5 @@
-Hi there, I'm Amrit Bhowmick 👋
+# Hi there 👋 I am Amrit! 
+
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst and Business Intelligence professional with expertise in Data Visualization and Digital Marketing. I enjoy turning complex data into actionable insights and creating impactful visualizations.
 

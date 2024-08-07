@@ -1,4 +1,6 @@
 # Hi there 👋 I am Amrit! 
+![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
+
 
 
 Welcome to my GitHub profile! I'm a passionate Data Analyst and Business Intelligence professional with expertise in Data Visualization and Digital Marketing. I enjoy turning complex data into actionable insights and creating impactful visualizations.
